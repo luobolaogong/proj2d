@@ -1,7 +1,7 @@
 <template>
-  <div class="leafletmap">
-    <div id="mapid" style="height: 400px;"></div>
-  </div>
+  <!--<div class="leafletmap">-->
+    <div id="mapid" style="height: 700px;"></div>
+  <!--</div>-->
 </template>
 
 <script>

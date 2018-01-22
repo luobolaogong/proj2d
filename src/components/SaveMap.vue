@@ -1,6 +1,6 @@
 <template>
   <div id="saveMap">
-    <v-btn flat small @click="saveMap()">Save Map</v-btn>
+    <v-btn flat large @click="saveMap()">Save Map</v-btn>
   </div>
 </template>
 
